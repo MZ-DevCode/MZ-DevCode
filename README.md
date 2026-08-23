@@ -9,16 +9,18 @@
 
 ## 🌐 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ZedixR@proton.me)
+[![ProtonMail](https://img.shields.io/badge/Proton-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ZedixR@proton.me)
 
 ---
 
 ## 💻 Tech Stack
 
-### Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### Languages(learning)
+![C](https://img.icons8.com/color/48/000000/c-programming.png) С
+
+![Go](https://img.icons8.com/color/48/000000/golang.png) Go
+
+![Bash](https://img.icons8.com/color/48/000000/bash.png) Bash
 
 ### Databases & Tools
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -35,7 +37,7 @@
 <div align="center">
 
 ![](https://github-readme-stats.shion.dev/api?username=MZ-DevCode&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=MZ-DevCode&theme=tokyonight&hide_border=false)
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MZ-DevCode&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
