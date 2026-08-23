@@ -7,12 +7,6 @@
 
 ---
 
-## 🌐 Connect With Me
-
-[![ProtonMail](https://img.shields.io/badge/Proton-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ZedixR@proton.me)
-
----
-
 ## 💻 Tech Stack
 
 ### Languages(learning)
@@ -43,4 +37,8 @@
 </div>
 
 ---
+## 🌐 Connect With Me
 
+[![ProtonMail](https://img.shields.io/badge/Proton-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ZedixR@proton.me)
+
+---
