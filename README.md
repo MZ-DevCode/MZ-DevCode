@@ -22,10 +22,11 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-### OS I Use
+### Environment & OS
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-%23AB2B28.svg?style=for-the-badge&logo=freebsd&logoColor=white)
-
+![Zed](https://img.shields.io/badge/Zed-Editor-1a1b26?style=for-the-badge&logo=zed&logoColor=9aa5ce)
+![Nano](https://img.shields.io/badge/Nano-Editor-005500?style=for-the-badge&logo=GNU%20Nano&logoColor=white)
 
 ---
 <div align="center">
