@@ -1,3 +1,5 @@
+![anim1](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJ5ZGZsdzN3bDMwb2dlaWIwMTI1bWczaDVnOTZiMjcycXdzc2F2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WlmN5A4fXxNXG6Nxit/giphy.gif)
+
 ## 💫 About Me
 
 - Passionate about high technology with a focus on deep technical understanding.
