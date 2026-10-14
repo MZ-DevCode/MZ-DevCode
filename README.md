@@ -12,19 +12,15 @@
 ## 💻 Tech Stack
 
 ### Languages(learning)
-![C](https://img.icons8.com/color/48/000000/c-programming.png) С
 
-![Go](https://img.icons8.com/color/48/000000/golang.png) Go
-
-![Bash](https://img.icons8.com/color/48/000000/bash.png) Bash
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,c,bash&theme=dark" />
+</p>
 
 ### Databases & Tools
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql,redis,docker,git&theme=dark" />
+</p>
 
 ### Environment & OS
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
