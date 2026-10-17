@@ -17,7 +17,7 @@
   <img src="https://skillicons.dev/icons?i=go,c,bash&theme=dark" />
 </p>
 
-### 🛠️ Utilities
+### Utilities
 
 <p align="left">
   <img src="https://img.shields.io/badge/tcpdump-000000?style=for-the-badge&color=000000&labelColor=000000&logoColor=%2300FF41&colorB=00FF41" />
