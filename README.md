@@ -21,6 +21,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/tcpdump-000000?style=for-the-badge&color=000000&labelColor=000000&logoColor=%2300FF41&colorB=00FF41" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&color=000000&labelColor=000000&logoColor=%231679A7" />
 </p>
 
 
